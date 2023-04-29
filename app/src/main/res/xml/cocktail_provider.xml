@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cocktail-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    category="feeds"
+    configure="com.example.edge.EdgeConfigure"
+    decription="@string/edge_description"
+    label="@string/edge_name"
+    permitVisibilityChanged="true"
+    cocktailWidth="550"
+    launchOnClick="a98apps.lyricsedge.view.SettingsActivity"
+    updatePeriodMills="1800000">
+
+</cocktail-provider>
