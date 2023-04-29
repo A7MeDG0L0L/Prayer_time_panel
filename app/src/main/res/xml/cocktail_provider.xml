@@ -6,7 +6,7 @@
     label="@string/edge_name"
     permitVisibilityChanged="true"
     cocktailWidth="550"
-    launchOnClick="a98apps.lyricsedge.view.SettingsActivity"
+    launchOnClick="com.prayer_time_panel.SettingsActivity"
     updatePeriodMills="1800000">
 
 </cocktail-provider>

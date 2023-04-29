@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Prayer_time_panel</string>
+    <string name="app_name">Prayer Time Panel</string>
     <string name="edge_description">My Description</string>
     <string name="edge_name">your_edge_name</string>
     <string name="prompt_email">your_prompt_email</string>
